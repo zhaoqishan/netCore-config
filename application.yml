@@ -14,8 +14,9 @@ eureka:
     validate_certificates: false
 mysql:
   client:
-    server: localhost
-    sslmode: none
+    database: dev
+    username: root
+    password: wangm6492178
 redis:
   client:
     host: localhost
