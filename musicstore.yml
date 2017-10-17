@@ -5,6 +5,6 @@ eureka:
     port: 5000
 mysql:
   client:
-    database: steeltoe
+    database: dev
     username: root
-    password: steeltoe
+    password: wangm6492178
