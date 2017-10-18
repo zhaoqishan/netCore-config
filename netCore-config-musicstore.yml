@@ -3,8 +3,7 @@ eureka:
     shouldFetchRegistry: false
   instance:
     port: 5000
-mysql:
-  client:
+
     database: dev
     username: root
     password: wangm6492178
