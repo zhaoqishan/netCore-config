@@ -1,9 +1,3 @@
-eureka:
-  client:
-    shouldFetchRegistry: false
-  instance:
-    port: 5000
-
     database: dev
     username: root
     password: wangm6492178
