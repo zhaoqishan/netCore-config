@@ -1,4 +1,4 @@
     database: dev
     username: root
     password: wangm6492178
-    ConnectionString:"Server = localhost;database =dev; uid =root;pwd =wangm6492178;"
+    ConnectionString: "Server = localhost;database =dev; uid =root;pwd =wangm6492178;"
